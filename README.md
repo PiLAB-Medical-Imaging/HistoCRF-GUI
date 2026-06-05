@@ -17,7 +17,7 @@ pip install PyQt6 openslide-python pillow
 
 ## OpenSlide Installation
 
-Download the OpenSlide Windows binaries (version 4.0.0.13) and update the `OPENSLIDE_PATH` variable in the script to point to the `bin` directory:
+Download the [OpenSlide Windows binaries](https://github.com/openslide/openslide-bin/releases/tag/v4.0.0.13) (version 4.0.0.13) and update the `OPENSLIDE_PATH` variable in the script to point to the `bin` directory:
 
 ```
 OPENSLIDE_PATH = r"path/to/openslide-bin-4.0.0.13/bin"
